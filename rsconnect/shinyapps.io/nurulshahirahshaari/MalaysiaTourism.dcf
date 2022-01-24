@@ -1,0 +1,14 @@
+name: MalaysiaTourism
+title: MalaysiaTourism
+username:
+account: nurulshahirahshaari
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5490841
+bundleId: 5500325
+url: https://nurulshahirahshaari.shinyapps.io/MalaysiaTourism/
+when: 1642997872.87346
+lastSyncTime: 1642997872.87346
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|data/Tourism Dataset.csv|README.md|www/intro.png
